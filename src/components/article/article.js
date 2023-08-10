@@ -103,7 +103,7 @@ function articleMaker(articleObj) {
   articleDate.classList.add('date');
   expandButton.classList.add('expandButton');
 
-  artileWrapper.appendChild(articleTitle);
+  articleWrapper.appendChild(articleTitle);
   articleWrapper.appendChild(articleDate);
   articleWrapper.appendChild(articleParagraphOne);
   articleWrapper.appendChild(articleParagraphTwo);
